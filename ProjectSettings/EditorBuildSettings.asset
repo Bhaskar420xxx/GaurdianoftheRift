@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/0-ManagerScene.unity
+    guid: a78b2917821ca424c887eecaf36ca9b4
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/1-Menu.unity
+    guid: 72a81fd0bdedaf0448e6c17d1e8fcb86
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/2-ImageTargets.unity
+    guid: 03ddc4184641b534487cecd6dab620df
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/2-VuMarks.unity
+    guid: d9b53b25a285640cf8ac170a80603e34
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/2-ModelTargets.unity
+    guid: 530386685ba085242832bd5cc78d7222
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: aee059328ca3af34c94c2aaa5d043d58,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5560cea661d3a3741bc041401a7cd648,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4d8bc75e5d936bb4ba1cf1bae6dae053,
+      type: 2}
